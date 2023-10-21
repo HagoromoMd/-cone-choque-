@@ -669,7 +669,7 @@ function OrionLib:MakeWindow(WindowConfig)
 	  Orion:Destroy()
 	end)
 
-	OrionLib:MakeNotification({Name = "SyniX HUB",Content = "Script sendo Iniciado | Energy clash simulator" ,Image = "rbxassetid://14824506141",Time = 4})
+	OrionLib:MakeNotification({Name = "SyniX HUB",Content = "Script sendo Iniciado | Energy clash simulator" ,Image = "rbxassetid://14824506141",Time = 3})
 
 	local function LoadSequence()
 		MainWindow.Visible = false
